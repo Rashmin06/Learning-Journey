@@ -1,0 +1,15 @@
+Learning  Linux command line 
+Day 1
+commond-(case sentitve)
+1.date 
+2.clear 
+3.ncal - calender  new formate
+4.cal old formate
+5.(argument and parameter ) ncal april 2025
+command sturctue 
+command option arguments
+ long form option uses  two -- dashesh 
+ date --universal
+ sort -r color.text
+  b2 and a1 before and after  calender  2 month or o month
+   man command  for information 
