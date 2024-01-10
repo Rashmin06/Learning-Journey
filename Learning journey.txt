@@ -13,3 +13,16 @@ command option arguments
  sort -r color.text
   b2 and a1 before and after  calender  2 month or o month
    man command  for information 
+Day 2 
+6. man command(man navigate the command information )
+eg man cp 
+man ncal
+
+
+type command -- 
+which command ---
+
+whoami
+who 
+type  echo 
+who -b  (boot)
